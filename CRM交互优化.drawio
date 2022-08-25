@@ -1,11 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2022-08-25T05:18:12.249Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36 Edg/98.0.1108.43" etag="xKaz9kQwrqLZRKr6NC9e" version="20.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-25T05:31:11.484Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36 Edg/98.0.1108.43" etag="Ww70ifZ_yWKCSenqdQVx" version="20.2.6" type="github">
   <diagram id="q-poOADq89SLV2On1OTE" name="第 1 页">
     <mxGraphModel dx="2053" dy="2330" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="L0XpBwEi-y1WDcA01-vK-95" value="个人表格 B&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0b1922;strokeColor=none;shadow=0;glass=0;comic=0;gradientColor=none;fontFamily=Courier New;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="424" y="1607" width="390" height="250" as="geometry" />
+        </mxCell>
         <mxCell id="L0XpBwEi-y1WDcA01-vK-72" value="&lt;font color=&quot;#1a1a1a&quot;&gt;团队表格 A&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;shadow=0;glass=0;comic=0;gradientColor=none;fontFamily=Courier New;fontColor=#FFFFFF;fillColor=#f4f1de;" vertex="1" parent="1">
           <mxGeometry x="70" y="1910" width="330" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="L0XpBwEi-y1WDcA01-vK-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;fontColor=#1A1A1A;endArrow=none;endFill=0;strokeColor=#696773;strokeWidth=2;startArrow=classicThin;startFill=1;" edge="1" parent="1" source="L0XpBwEi-y1WDcA01-vK-73" target="L0XpBwEi-y1WDcA01-vK-95">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="L0XpBwEi-y1WDcA01-vK-73" value="团队表格 B&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0b1922;strokeColor=none;shadow=0;glass=0;comic=0;gradientColor=none;fontFamily=Courier New;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="424" y="1910" width="390" height="250" as="geometry" />
@@ -500,7 +506,7 @@
         <mxCell id="L0XpBwEi-y1WDcA01-vK-76" value="线索&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- 购买意愿&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- 来源&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- 留痕&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;shadow=1;glass=0;comic=0;gradientColor=none;fontFamily=Courier New;fontColor=#FFFFFF;fillColor=#e07a5f;" vertex="1" parent="1">
           <mxGeometry x="241" y="1970" width="90" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="L0XpBwEi-y1WDcA01-vK-77" value="筛选&lt;br&gt;购买意向 = 登录用户授权的购买意愿" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;shadow=1;glass=0;comic=0;gradientColor=none;fontFamily=Courier New;fontColor=#FFFFFF;fillColor=#c8167e;" vertex="1" parent="1">
+        <mxCell id="L0XpBwEi-y1WDcA01-vK-77" value="筛选&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;顾问ID = 当前登录用户&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;shadow=1;glass=0;comic=0;gradientColor=none;fontFamily=Courier New;fontColor=#FFFFFF;fillColor=#c8167e;" vertex="1" parent="1">
           <mxGeometry x="118.5" y="2060" width="231" height="60" as="geometry" />
         </mxCell>
         <mxCell id="L0XpBwEi-y1WDcA01-vK-78" value="&lt;font face=&quot;Courier New&quot; color=&quot;#ffffff&quot;&gt;我的线索&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;shadow=1;glass=0;comic=0;gradientColor=none;fillColor=#81b29a;" vertex="1" parent="1">
@@ -512,7 +518,7 @@
         <mxCell id="L0XpBwEi-y1WDcA01-vK-80" value="线索&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- 购买意愿&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- 来源&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;shadow=1;glass=0;comic=0;gradientColor=none;fontFamily=Courier New;fontColor=#FFFFFF;fillColor=#e07a5f;" vertex="1" parent="1">
           <mxGeometry x="559" y="1976" width="90" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="L0XpBwEi-y1WDcA01-vK-81" value="筛选&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;购买意向 = 登录用户授权&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;的购买意愿&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;条件B = b&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;条件c = c&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;shadow=1;glass=0;comic=0;gradientColor=none;fontFamily=Courier New;fontColor=#FFFFFF;fillColor=#c8167e;" vertex="1" parent="1">
+        <mxCell id="L0XpBwEi-y1WDcA01-vK-81" value="筛选&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;购买意向 = 登录用户授权&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;的购买意愿&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;顾问ID = 当前登录用户&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;条件c = c&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;shadow=1;glass=0;comic=0;gradientColor=none;fontFamily=Courier New;fontColor=#FFFFFF;fillColor=#c8167e;" vertex="1" parent="1">
           <mxGeometry x="500" y="2060" width="240" height="70" as="geometry" />
         </mxCell>
         <mxCell id="L0XpBwEi-y1WDcA01-vK-82" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;fontColor=#1A1A1A;" vertex="1" parent="1">
@@ -526,9 +532,6 @@
         </mxCell>
         <mxCell id="L0XpBwEi-y1WDcA01-vK-85" value="不同团队&lt;br&gt;不同的筛选条件&lt;br&gt;或&lt;br&gt;不同的字段" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontColor=#1A1A1A;" vertex="1" parent="1">
           <mxGeometry x="360" y="2225" width="110" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="L0XpBwEi-y1WDcA01-vK-86" value="&lt;span style=&quot;color: rgb(26, 26, 26);&quot;&gt;个人表格 A&lt;/span&gt;&lt;br style=&quot;color: rgb(26, 26, 26);&quot;&gt;&lt;br style=&quot;color: rgb(26, 26, 26);&quot;&gt;&lt;br style=&quot;color: rgb(26, 26, 26);&quot;&gt;&lt;br style=&quot;color: rgb(26, 26, 26);&quot;&gt;&lt;br style=&quot;color: rgb(26, 26, 26);&quot;&gt;&lt;br style=&quot;color: rgb(26, 26, 26);&quot;&gt;&lt;br style=&quot;color: rgb(26, 26, 26);&quot;&gt;&lt;br style=&quot;color: rgb(26, 26, 26);&quot;&gt;&lt;br style=&quot;color: rgb(26, 26, 26);&quot;&gt;&lt;br style=&quot;color: rgb(26, 26, 26);&quot;&gt;&lt;br style=&quot;color: rgb(26, 26, 26);&quot;&gt;&lt;br style=&quot;color: rgb(26, 26, 26);&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eff1f3;strokeColor=none;shadow=0;glass=0;comic=0;gradientColor=none;fontFamily=Courier New;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="424" y="1590" width="400" height="270" as="geometry" />
         </mxCell>
         <mxCell id="L0XpBwEi-y1WDcA01-vK-87" value="财经某次问卷调查&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- A 字段&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- B 字段&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;shadow=1;glass=0;comic=0;gradientColor=none;fontFamily=Courier New;fontColor=#FFFFFF;fillColor=#e07a5f;" vertex="1" parent="1">
           <mxGeometry x="660" y="1976" width="110" height="70" as="geometry" />
@@ -547,6 +550,33 @@
         </mxCell>
         <mxCell id="L0XpBwEi-y1WDcA01-vK-93" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;fontColor=#1A1A1A;direction=west;" vertex="1" parent="1">
           <mxGeometry x="827" y="1780" width="50" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="L0XpBwEi-y1WDcA01-vK-94" value="相同团队&lt;br&gt;不同的人&lt;br&gt;在团队表格的基础上&lt;br&gt;追加筛选条件&lt;br&gt;删减展示字段" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="867" y="1830" width="130" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="L0XpBwEi-y1WDcA01-vK-96" value="&lt;font color=&quot;#1a1a1a&quot;&gt;团队表格 C&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;shadow=0;glass=0;comic=0;gradientColor=none;fontFamily=Courier New;fontColor=#FFFFFF;fillColor=#f4f1de;" vertex="1" parent="1">
+          <mxGeometry x="77" y="1617" width="330" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="L0XpBwEi-y1WDcA01-vK-97" value="&lt;font face=&quot;Courier New&quot; color=&quot;#ffffff&quot;&gt;我团队的线索&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;shadow=1;glass=0;comic=0;gradientColor=none;fillColor=#81b29a;" vertex="1" parent="1">
+          <mxGeometry x="117" y="1647" width="250" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="L0XpBwEi-y1WDcA01-vK-98" value="学员&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- 名称&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- 手机还&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- 微信ID&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;shadow=1;glass=0;comic=0;gradientColor=none;fontFamily=Courier New;fontColor=#FFFFFF;fillColor=#e07a5f;" vertex="1" parent="1">
+          <mxGeometry x="142" y="1677" width="90" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="L0XpBwEi-y1WDcA01-vK-99" value="线索&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- 购买意愿&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- 来源&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- 留痕&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;shadow=1;glass=0;comic=0;gradientColor=none;fontFamily=Courier New;fontColor=#FFFFFF;fillColor=#e07a5f;" vertex="1" parent="1">
+          <mxGeometry x="248" y="1677" width="90" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="L0XpBwEi-y1WDcA01-vK-100" value="筛选&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;团队ID = 当前登录用户负责的团队&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;shadow=1;glass=0;comic=0;gradientColor=none;fontFamily=Courier New;fontColor=#FFFFFF;fillColor=#c8167e;" vertex="1" parent="1">
+          <mxGeometry x="125.5" y="1767" width="231" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="L0XpBwEi-y1WDcA01-vK-102" value="个人表格继承团队表格" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="614" y="1865" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="L0XpBwEi-y1WDcA01-vK-103" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="22" y="1800" width="50" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="L0XpBwEi-y1WDcA01-vK-104" value="不同角色&lt;br&gt;不同筛选条件&lt;br&gt;（条件支持动态值）&lt;br&gt;查看相同的字段" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="-99" y="1840" width="130" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
